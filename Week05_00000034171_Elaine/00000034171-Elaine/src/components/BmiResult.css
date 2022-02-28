@@ -1,0 +1,26 @@
+ion-card{
+    --background: black;
+    --color: white;
+}
+
+#result h2{
+    font-size: 1rem;
+}
+
+#result h1{
+    font-size: 2rem;
+    margin: 1.5rem 0;
+    font-weight: bold;
+}
+
+.ion-card-success{
+    --background: var(--ion-color-success);
+}
+
+.ion-card-warning{
+    --background: var(--ion-color-warning);
+}
+
+.ion-card-danger{
+    --background: var(--ion-color-danger);
+}
