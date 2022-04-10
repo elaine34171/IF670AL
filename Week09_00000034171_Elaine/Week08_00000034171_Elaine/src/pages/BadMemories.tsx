@@ -46,7 +46,7 @@ const BadMemories: React.FC = () => {
                     )}
 
                     <LoadScript
-                        googleMapsApiKey="AIzaSyDfqb403mTCmfngO9lR-mT1JMibIhx8re4"
+                        googleMapsApiKey="API_KEY"
                         loadingElement={loading}
                     />
 

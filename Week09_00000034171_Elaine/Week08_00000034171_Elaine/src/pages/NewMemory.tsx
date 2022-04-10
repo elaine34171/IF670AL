@@ -150,7 +150,7 @@ const NewMemory: React.FC = () => {
 
                 <IonRow>
                     <IonCol className="ion-text-center">
-                        <LoadScript googleMapsApiKey="AIzaSyDfqb403mTCmfngO9lR-mT1JMibIhx8re4">
+                        <LoadScript googleMapsApiKey="API_KEY">
                             <GoogleMap
                                 mapContainerStyle={containerStyle}
                                 center={{lat: lat, lng: lng}}
