@@ -1,0 +1,25 @@
+ion-tab-button {
+  color: #f3b9b6;
+}
+  
+.tab-selected {
+  color: #ffffff;
+}
+
+.image-preview {
+  border: thin solid #383a3e;
+  width: 250px;
+  height: 250px;
+  margin: auto;
+}
+
+.image-preview p {
+  margin-top: 45%;
+}
+
+.image-preview img {
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+  overflow: hidden;
+}
