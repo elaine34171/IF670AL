@@ -1,0 +1,1 @@
+API_KEY ada di file txt yang dikumpul ke elearning
